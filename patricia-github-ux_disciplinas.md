@@ -1,3 +1,4 @@
+
 Ambiente e Desenvolvimento e Operação (Criar ambiente	de integração	contínua e gerenciar artefatos de	análise	e	modelagem	de sistemas).
 
 Análise Exploratória de Dados (Interpretar	visualmente	os	dados	e	comunicar	os	diferentes	padrões	dos tipos de dados).
